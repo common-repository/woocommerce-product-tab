@@ -1,0 +1,14 @@
+/* CSS Document */
+.wt-faqcnt { border:1px solid #e1e1e1; margin-bottom:5px; border-radius:5px; }
+.wt-admingeneral{ margin:5px 5px  5px 0px; }
+.wt-admingeneral h4{ margin:0; }
+.wt-admingeneral .wt-faqtitle{ background:#eee; }
+.wt-faq .wt-faqtitle, .wt-faq .wt-faqcontent , ..wt-admingeneral .wt-faqtitle, .wt-admingeneral .wt-faqcontent{ padding: 0px; }
+.wt-faq .wt-faqtitle , .wt-admingeneral .wt-faqtitle{ font-size:15px; color: #9d9d9d; cursor: pointer;  padding: 10px 0 10px 10px;line-height: 15px;position: relative;  -webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;}
+	.wt-faq .wt-faqtitle:hover , .wt-admingeneral .wt-faqtitle:hover{ color:#414141; font-weight:bold; }
+	.wt-faq .wt-faqtitle:hover:before , .wt-admingeneral .wt-faqtitle:hover:before{ background: #ccc;color:#fff }
+.wt-faq .wt-faqcontent , .wt-admingeneral .wt-faqcontent { font-size: 13px; padding: 20px; position:relative;}
+	.wt-faq .wt-faqcontent:before{ height:3px; background:#e1e1e1; content:''; position:absolute; top:0; left:20px;width:40%;  }
+.wt-faq .wt-faqtitle:before , .wt-admingeneral .wt-faqtitle:before { font-family: "FontAwesome";font-size: 15px;content: '\f107';background: #fff;width: 20px;height: 20px;border-radius: 50%;position: absolute;right: 10px;top: 5px;text-align: center;line-height: 21px;color: #ccc;border: 1px solid #C2C2C2;-webkit-transition: all 0.2s ease-out;-moz-transition: all 0.2s ease-out;-o-transition: all 0.2s ease-out;-ms-transition: all 0.2s ease-out;}
+.wt-faq .expanded:before , .wt-admingeneral .expanded:before {font-family: "FontAwesome"; font-size: 15px; content: '\f106'; line-height:18px; }
+.wt-faq .expanded , .wt-admingeneral .expanded{ padding-left: 20px; font-weight:bold;color:#414141; }

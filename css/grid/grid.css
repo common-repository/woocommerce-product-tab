@@ -1,0 +1,297 @@
+/* CSS Document */
+
+/*  SECTIONS  ============================================================================= */
+
+.wt_section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  GROUPING  ============================================================================= */
+
+
+.wt_group:before,
+.wt_group:after {
+    content:"";
+    display:table;
+}
+.wt_group:after {
+    clear:both;
+}
+.wt_group {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+/*  GRID COLUMN SETUP   ==================================================================== */
+.wt_col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.wt_col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
+
+
+/*  GRID OF TWO   ============================================================================= */
+.wt_col_2_of_2 {
+	width: 100%;
+}
+.wt_col_1_of_2 {
+	width: 49.2%;
+}
+
+
+
+/*  GRID OF THREE   ============================================================================= */
+.wt_col_3_of_3 {
+	width: 100%; 
+}
+.wt_col_2_of_3 {
+	width: 66.13%; 
+}
+.wt_col_1_of_3 {
+	width: 32.26%; 
+}
+
+
+/*  GRID OF FOUR   ============================================================================= */
+.wt_col_4_of_4 {
+	width: 100%; 
+}
+.wt_col_3_of_4 {
+	width: 74.6%; 
+}
+.wt_col_2_of_4 {
+	width: 49.2%; 
+}
+.wt_col_1_of_4 {
+	width: 23.8%; 
+}
+
+
+/*  GRID OF FIVE   ============================================================================= */
+.wt_col_5_of_5 {
+	width: 100%;
+}
+.wt_col_4_of_5 {
+  	width: 79.68%; 
+}
+.wt_col_3_of_5 {
+  	width: 59.36%; 
+}
+.wt_col_2_of_5 {
+  	width: 39.04%;
+}
+.wt_col_1_of_5 {
+  	width: 18.72%;
+}
+
+
+/*  GRID OF SIX   ============================================================================= */
+.wt_col_6_of_6 {
+	width: 100%;
+}
+.wt_col_5_of_6 {
+  	width: 83.06%;
+}
+.wt_col_4_of_6 {
+  	width: 66.13%;
+}
+.wt_col_3_of_6 {
+  	width: 49.2%;
+}
+.wt_col_2_of_6 {
+  	width: 32.26%;
+}
+.wt_col_1_of_6 {
+  	width: 15.33%;
+}
+
+
+/*  GRID OF SEVEN   ============================================================================= */
+.wt_col_7_of_7 {
+	width: 100%;
+}
+.wt_col_6_of_7 {
+	width: 85.48%;
+}
+.wt_col_5_of_7 {
+  	width: 70.97%;
+}
+.wt_col_4_of_7 {
+  	width: 56.45%;
+}
+.wt_col_3_of_7 {
+  	width: 41.94%;
+}
+.wt_col_2_of_7 {
+  	width: 27.42%;
+}
+.wt_col_1_of_7 {
+  	width: 12.91%;
+}
+
+
+
+/*  GRID OF EIGHT   ============================================================================= */
+.wt_col_8_of_8 {
+	width: 100%;
+}
+.wt_col_7_of_8 {
+	width: 87.3%; 
+}
+.wt_col_6_of_8 {
+	width: 74.6%; 
+}
+.wt_col_5_of_8 {
+	width: 61.9%; 
+}
+.wt_col_4_of_8 {
+	width: 49.2%; 
+}
+.wt_col_3_of_8 {
+	width: 36.5%;
+}
+.wt_col_2_of_8 {
+	width: 23.8%; 
+}
+.wt_col_1_of_8 {
+	width: 11.1%; 
+}
+
+
+.wt_col .wt-thumbcnt img { width:100%; height:auto; }
+.wt_col .wt-detailcnt { padding:10px 0; width:100%;   }
+.wt_col .wt-detailcnt .wt-title , .wt_col .wt-detailcnt .wt-text, .wt_col .wt-detailcnt .wt-postmeta { padding-left:5px; padding-right:5px;}
+/*  REMOVE MARGINS AS ALL GO FULL WIDTH AT 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.wt_col { 
+		margin: 1% 0 3% 0%;
+	}
+	
+	
+	.wt_col_2_of_2 {
+		width: 100%; 
+	}
+	.wt_col_1_of_2 {
+		width: 100%; 
+	}
+	
+	
+	/*3*/
+	.wt_col_3_of_3 {
+		width: 100%; 
+	}
+	.wt_col_2_of_3 {
+		width: 100%; 
+	}
+	.wt_col_1_of_3 {
+		width: 100%;
+	}
+	
+	/*4*/
+	.wt_col_4_of_4 {
+		width: 100%; 
+	}
+	.wt_col_3_of_4 {
+		width: 100%; 
+	}
+	.wt_col_2_of_4 {
+		width: 100%; 
+	}
+	.wt_col_1_of_4 {
+		width: 100%; 
+	}
+	
+	/*5*/
+	.wt_col_5_of_5 {
+		width: 100%; 
+	}
+	.wt_col_4_of_5 {
+		width: 100%; 
+	}
+	.wt_col_3_of_5 {
+		width: 100%; 
+	}
+	.wt_col_2_of_5 {
+		width: 100%; 
+	}
+	.wt_col_1_of_5 {
+		width: 100%; 
+	}
+	
+	
+	/*6*/
+	.wt_col_6_of_6 {
+		width: 100%; 
+	}
+	.wt_col_5_of_6 {
+		width: 100%; 
+	}
+	.wt_col_4_of_6 {
+		width: 100%; 
+	}
+	.wt_col_3_of_6 {
+		width: 100%; 
+	}
+	.wt_col_2_of_6 {
+		width: 100%; 
+	}
+	.wt_col_1_of_6 {
+		width: 100%; 
+	}
+	
+	/*7*/
+	.wt_col_7_of_7 {
+		width: 100%; 
+	}
+	.wt_col_6_of_7 {
+		width: 100%; 
+	}
+	.wt_col_5_of_7 {
+		width: 100%; 
+	}
+	.wt_col_4_of_7 {
+		width: 100%; 
+	}
+	.wt_col_3_of_7 {
+		width: 100%; 
+	}
+	.wt_col_2_of_7 {
+		width: 100%; 
+	}
+	.wt_col_1_of_7 {
+		width: 100%; 
+	}
+	
+	/*8*/
+	.wt_col_8_of_8 {
+		width: 100%; 
+	}
+	.wt_col_7_of_8 {
+		width: 100%; 
+	}
+	.wt_col_6_of_8 {
+		width: 100%; 
+	}
+	.wt_col_5_of_8 {
+		width: 100%; 
+	}
+	.wt_col_4_of_8 {
+		width: 100%; 
+	}
+	.wt_col_3_of_8 {
+		width: 100%; 
+	}
+	.wt_col_2_of_8 {
+		width: 100%; 
+	}
+	.wt_col_1_of_8 {
+		width: 100%; 
+	}
+	
+	
+	
+	.wt-listitem{ margin-bottom:10px; }
+}
+

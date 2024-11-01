@@ -1,0 +1,945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: en\n"
+"Language-Team: proword\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"product-tab\n"
+
+msgid "Product Tabs"
+msgstr ""
+
+msgid "Wishlist Page"
+msgstr ""
+
+msgid "Page contents: [pw_woocommerce_tabs]"
+msgstr ""
+
+msgid "Styles and Scripts"
+msgstr ""
+
+msgid "Light Skin Colour"
+msgstr ""
+
+msgid "The base colour for Light Skin Colour. Default <code>#f7f7f7</code>."
+msgstr ""
+
+msgid "Dark Skin Colour"
+msgstr ""
+
+msgid "The base colour for Dark Skin Colour. Default <code>#414141</code>."
+msgstr ""
+
+msgid "Button Colour"
+msgstr ""
+
+msgid "The base colour for Button Colour. Default <code>#a7a7a7</code>."
+msgstr ""
+
+msgid "Button Hover Colour"
+msgstr ""
+
+msgid "The base colour for Button Hover Colour. Default <code>#309af7</code>."
+msgstr ""
+
+msgid "Icon Colour"
+msgstr ""
+
+msgid "The base colour for Icon Colour. Default <code>#309af7</code>."
+msgstr ""
+
+msgid "Link Colour"
+msgstr ""
+
+msgid "The base colour for Link Colour. Default <code>#bbbbbb</code>."
+msgstr ""
+
+msgid "Link Hover Colour"
+msgstr ""
+
+msgid "The base colour for Link Hover Colour. Default <code>#309af7</code>."
+msgstr ""
+
+msgid "Image Hover"
+msgstr ""
+
+msgid "The base colour for Image Hover. Default <code>#000000</code>."
+msgstr ""
+
+msgid "Description Colour"
+msgstr ""
+
+msgid "The base colour for Description Colour. Default <code>#a7a7a7</code>."
+msgstr ""
+
+msgid "Price Colour"
+msgstr ""
+
+msgid "The base colour for Price Colour. Default <code>#309af7</code>."
+msgstr ""
+
+msgid "Border Colour"
+msgstr ""
+
+msgid "The base colour for Border Colour. Default <code>#636363</code>."
+msgstr ""
+
+msgid "Featuerd  Colour"
+msgstr ""
+
+msgid "The base colour for Featuerd  Colour. Default <code>#ffffff</code>."
+msgstr ""
+
+msgid "Featuerd Backgraund Colour"
+msgstr ""
+
+msgid ""
+"The base colour for Featuerd Backgraund Colour. Default <code>#309af7</code>."
+msgstr ""
+
+msgid "Use Default Theme To Show Products"
+msgstr ""
+
+msgid "check this if you want to use your default theme view for products."
+msgstr ""
+
+msgid "Sticky Button"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Choose animation for product tab element in front-end."
+msgstr ""
+
+msgid "No Animation"
+msgstr ""
+
+msgid "slideDown"
+msgstr ""
+
+msgid "slideUp"
+msgstr ""
+
+msgid "slideLeft"
+msgstr ""
+
+msgid "slideRight"
+msgstr ""
+
+msgid "fadeIn"
+msgstr ""
+
+msgid "Top margin for Left side (Pixel)"
+msgstr ""
+
+msgid "Extra Button Left Top"
+msgstr ""
+
+msgid "Top margin for Right side (Pixel)"
+msgstr ""
+
+msgid "Extra Button Right Top"
+msgstr ""
+
+msgid "Default Image"
+msgstr ""
+
+msgid "Add Default Image"
+msgstr ""
+
+msgid "Upload/Add image"
+msgstr ""
+
+msgid "Remove image"
+msgstr ""
+
+msgid "Choose an image"
+msgstr ""
+
+msgid "Use image"
+msgstr ""
+
+msgid "No Product Name"
+msgstr ""
+
+msgid "No Name"
+msgstr ""
+
+msgid "No Email"
+msgstr ""
+
+msgid "No Website"
+msgstr ""
+
+msgid "No Address"
+msgstr ""
+
+msgid "No Description"
+msgstr ""
+
+msgid "Quotation Request from "
+msgstr ""
+
+msgid "From: "
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "For Product Name : "
+msgstr ""
+
+msgid "Email: "
+msgstr ""
+
+msgid "address: "
+msgstr ""
+
+msgid "Name is required!"
+msgstr ""
+
+msgid "Enter Correct Email!"
+msgstr ""
+
+msgid "Thanks for the quote request!"
+msgstr ""
+
+msgid "Error, Please Try Again!"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Visual"
+msgstr ""
+
+msgid "Select Query"
+msgstr ""
+
+msgid "Choose Query"
+msgstr ""
+
+msgid "Display All Product from Same Brand"
+msgstr ""
+
+msgid "Display Featured Product from Same Brand"
+msgstr ""
+
+msgid "Display All Product from Same Category"
+msgstr ""
+
+msgid "Display Featured Product from Same Category"
+msgstr ""
+
+msgid "Display Type"
+msgstr ""
+
+msgid "Choose Display Type"
+msgstr ""
+
+msgid "Grid View"
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Grid Column"
+msgstr ""
+
+msgid "Choose Number of Column(s) of Grid"
+msgstr ""
+
+msgid "One Column"
+msgstr ""
+
+msgid "Two Columns"
+msgstr ""
+
+msgid "Three Columns"
+msgstr ""
+
+msgid "Four Columns"
+msgstr ""
+
+msgid "Skin"
+msgstr ""
+
+msgid "Choose Skin for Grid and Carousel Type"
+msgstr ""
+
+msgid "Light 1"
+msgstr ""
+
+msgid "Light 2"
+msgstr ""
+
+msgid "Dark 1"
+msgstr ""
+
+msgid "Dark 2"
+msgstr ""
+
+msgid "Grid Image Effect"
+msgstr ""
+
+msgid "Choose Gallery Grid Image Effect"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid "Rotate Right"
+msgstr ""
+
+msgid "Grid Icon Effect"
+msgstr ""
+
+msgid "Choose Grid Icon Effect"
+msgstr ""
+
+msgid "Dropdown"
+msgstr ""
+
+msgid "DropUp"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "Advanced Setting"
+msgstr ""
+
+msgid "File Uploaded"
+msgstr ""
+
+msgid "No File Uploaded"
+msgstr ""
+
+msgid "Choose File"
+msgstr ""
+
+msgid "Remove File"
+msgstr ""
+
+msgid "Download Link"
+msgstr ""
+
+msgid "<-OR->"
+msgstr ""
+
+msgid "Link Title"
+msgstr ""
+
+msgid "Download Description"
+msgstr ""
+
+msgid "Editor :"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid ""
+"You can put Your shortcode here and Generate form.(Such as Contact form)"
+msgstr ""
+
+msgid "Contact Form :"
+msgstr ""
+
+msgid "INQUIRY FORM FIELDS"
+msgstr ""
+
+msgid "\"Name\" Field Don`t Display in Form"
+msgstr ""
+
+msgid "\"Name\" Field Display in Form"
+msgstr ""
+
+msgid "\"Email\" Field Don`t Display in Form"
+msgstr ""
+
+msgid "\"Email\" Field Display in Form"
+msgstr ""
+
+msgid "\"Website\" Field Don`t Display in Form"
+msgstr ""
+
+msgid "\"Website\" Field Display in Form"
+msgstr ""
+
+msgid "\"Address\" Field Don`t Display in Form"
+msgstr ""
+
+msgid "\"Address\" Field Display in Form"
+msgstr ""
+
+msgid "\"Description\" Field Don`t Display in Form"
+msgstr ""
+
+msgid "\"Description\" Field Display in Form"
+msgstr ""
+
+msgid "Name Field"
+msgstr ""
+
+msgid "Add Name Field to Form."
+msgstr ""
+
+msgid "Email Field"
+msgstr ""
+
+msgid "Add Email Field to Form."
+msgstr ""
+
+msgid "Website Field"
+msgstr ""
+
+msgid "Add Website Url Field to Form."
+msgstr ""
+
+msgid "Address Field"
+msgstr ""
+
+msgid "Add Address Field to Form."
+msgstr ""
+
+msgid "Description Field"
+msgstr ""
+
+msgid "Add Description Field to Form."
+msgstr ""
+
+msgid "Map Type"
+msgstr ""
+
+msgid "Choose Map Type"
+msgstr ""
+
+msgid "Direct Address"
+msgstr ""
+
+msgid "Embed"
+msgstr ""
+
+msgid "Location Point"
+msgstr ""
+
+msgid "Enter Location Address."
+msgstr ""
+
+msgid "Latitiude"
+msgstr ""
+
+msgid "Enter Latitude Point."
+msgstr ""
+
+msgid "Longtiude"
+msgstr ""
+
+msgid "Enter Longtiude Point."
+msgstr ""
+
+msgid "Embed Map :"
+msgstr ""
+
+msgid "Gallery Type"
+msgstr ""
+
+msgid "Choose Gallery Type"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Choose Number of Column(s)"
+msgstr ""
+
+msgid "Choose Gallery Grid Icon Effect"
+msgstr ""
+
+msgid "Slider Height (Pixel)"
+msgstr ""
+
+msgid "Enter Photo Slider Height."
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Choose Image"
+msgstr ""
+
+msgid "Remove Image"
+msgstr ""
+
+msgid "Uploaded Image"
+msgstr ""
+
+msgid "Select Product(s)"
+msgstr ""
+
+msgid "Search for a product&hellip;"
+msgstr ""
+
+msgid "Choose Product"
+msgstr ""
+
+msgid "General Setting"
+msgstr ""
+
+msgid "Enable Custom Tab?"
+msgstr ""
+
+msgid "Enable this option to display the custom tab on the frontend."
+msgstr ""
+
+msgid "Custom Tab Title"
+msgstr ""
+
+msgid "Enter your custom tab title."
+msgstr ""
+
+msgid "Text Content"
+msgstr ""
+
+msgid "Enter Content"
+msgstr ""
+
+msgid "Enable Sticky Button?"
+msgstr ""
+
+msgid "Enable/Disable Sticky Button."
+msgstr ""
+
+msgid "Content Width"
+msgstr ""
+
+msgid "Enter Sticky Content Width."
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Content Height (Pixel)"
+msgstr ""
+
+msgid "Enter Sticky Content Height."
+msgstr ""
+
+msgid "Sticky Button Position"
+msgstr ""
+
+msgid "Choose Sticky Position"
+msgstr ""
+
+msgid "Left Side"
+msgstr ""
+
+msgid "Right Side"
+msgstr ""
+
+msgid "Content Changed"
+msgstr ""
+
+msgid "If You Change Below Content, Please Check This Features"
+msgstr ""
+
+msgid "Related Post"
+msgstr ""
+
+msgid "Search for Posts&hellip;"
+msgstr ""
+
+msgid "Choose Related Post"
+msgstr ""
+
+msgid "List View"
+msgstr ""
+
+msgid "Choose Grid Image Effect"
+msgstr ""
+
+msgid "Grid/Silder Height (Pixel)"
+msgstr ""
+
+msgid "Enter Video Grid/Slider Height."
+msgstr ""
+
+msgid "Choose Video Thumb"
+msgstr ""
+
+msgid "Upload Image"
+msgstr ""
+
+msgid "Check this if you want enter the embed video Youtube."
+msgstr ""
+
+msgid "Video Url"
+msgstr ""
+
+msgid "Product Tabs General Setting"
+msgstr ""
+
+msgid "Products :: Display for all Products"
+msgstr ""
+
+msgid "Brands & Category :: Display for all Product"
+msgstr ""
+
+msgid "Editor :: Display for all Product"
+msgstr ""
+
+msgid "Shortcodes :: Display for all Product"
+msgstr ""
+
+msgid "Video Gallery :: Display for all Product"
+msgstr ""
+
+msgid "Photo Gallerty :: Display for all Product"
+msgstr ""
+
+msgid "Map :: Display for all Product"
+msgstr ""
+
+msgid "Inquiry Form :: Display for all Product"
+msgstr ""
+
+msgid "Download :: Display for all Product"
+msgstr ""
+
+msgid "Related Posts :: Display for all Product"
+msgstr ""
+
+msgid "FAQ :: Display for all Product"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Choose Tab Type"
+msgstr ""
+
+msgid "Brands & Category"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Inquiry Form"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Photo Gallery"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Related Posts"
+msgstr ""
+
+msgid "Shortcodes"
+msgstr ""
+
+msgid "Video Gallery"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Enter Tab Order"
+msgstr ""
+
+msgid "Tab Status"
+msgstr ""
+
+msgid "Choose Tab Status,"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Choose Icon for Tab or Sticky Button"
+msgstr ""
+
+msgid "Use For All"
+msgstr ""
+
+msgid ""
+"If Checked,You can Enter Content for This Tab here and the Content Will be "
+"Displayed in All Products Page"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Image Effect"
+msgstr ""
+
+msgid "Choose Image Effect"
+msgstr ""
+
+msgid "Icon Effect"
+msgstr ""
+
+msgid "Choose Icon Effect"
+msgstr ""
+
+msgid "You can enter any shortcodes."
+msgstr ""
+
+msgid "Enter Direct Address"
+msgstr ""
+
+msgid "Latitude"
+msgstr ""
+
+msgid "Enter Latitude Point"
+msgstr ""
+
+msgid "Enter Longtiude Point"
+msgstr ""
+
+msgid "Embed Map"
+msgstr ""
+
+msgid "Choose Products"
+msgstr ""
+
+msgid "Enter Editor Content"
+msgstr ""
+
+msgid "Add Website Field to Form."
+msgstr ""
+
+msgid "Add FAQ"
+msgstr ""
+
+msgid "Choose Video Gallery Type"
+msgstr ""
+
+msgid "Grid/Slider Height"
+msgstr ""
+
+msgid "Enter Video Grid/Slider Height"
+msgstr ""
+
+msgid "Add Video"
+msgstr ""
+
+msgid "Choose Photo Gallery Type"
+msgstr ""
+
+msgid "Choose Photo Gallery Grid Image Effect"
+msgstr ""
+
+msgid "Choose Photo Gallery Grid Icon Effect"
+msgstr ""
+
+msgid "Slider Height"
+msgstr ""
+
+msgid "Enter Photo Slider Height"
+msgstr ""
+
+msgid "Add Photo"
+msgstr ""
+
+msgid "Add File"
+msgstr ""
+
+msgid "Select Related Posts"
+msgstr ""
+
+msgid "Product Tab"
+msgstr ""
+
+msgid "Woo Tabs Pro"
+msgstr ""
+
+msgid "Add Woo Tabs Pro"
+msgstr ""
+
+msgid "Edit Woo Tabs Pro"
+msgstr ""
+
+msgid "View Woo Tabs Pro"
+msgstr ""
+
+msgid "Search Woo Tabs Pro"
+msgstr ""
+
+msgid "No Woo Tabs Pro Found"
+msgstr ""
+
+msgid "No Woo Tabs Pro Found in Trash"
+msgstr ""
+
+msgid "Parent Woo Tabs Pro"
+msgstr ""
+
+msgid "Enable for All"
+msgstr ""
+
+msgid "Use for All"
+msgstr ""
+
+msgid "faq"
+msgstr ""
+
+msgid "No Tab Type"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "DOWNLOAD"
+msgstr ""
+
+msgid "Download File Not available"
+msgstr ""
+
+msgid "Not available Faq"
+msgstr ""
+
+msgid "Product Name :"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Name ..."
+msgstr ""
+
+msgid "Your Name"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Email ..."
+msgstr ""
+
+msgid "Your Email"
+msgstr ""
+
+msgid "Website:"
+msgstr ""
+
+msgid "Website ..."
+msgstr ""
+
+msgid "Your Website"
+msgstr ""
+
+msgid "Address:"
+msgstr ""
+
+msgid "Address ..."
+msgstr ""
+
+msgid "Your Address"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Description ..."
+msgstr ""
+
+msgid "Your Deacription"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Sending..."
+msgstr ""
+
+msgid "Product Not Found"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "Not available POST"
+msgstr ""
+
+msgid ""
+"To view this video please enable JavaScript, and consider upgrading to a web "
+"browser that"
+msgstr ""
+
+msgid "supports HTML5 video"
+msgstr ""
+
+msgid "Select options"
+msgstr ""
+
+msgid "View options"
+msgstr ""
+
+msgid "Add to cart"
+msgstr ""
+
+msgid "Sale!"
+msgstr ""
+
+msgid "For use this type of tab you need "
+msgstr ""
+
+msgid "Woocommerce Brands Plugin"
+msgstr ""
+
+msgid "Please Install/Activate Woocommerce Brands Plugin."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Docs"
+msgstr ""

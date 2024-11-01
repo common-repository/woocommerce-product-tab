@@ -1,0 +1,100 @@
+label i{ margin:3px 5px 0 0; } 
+.repeatable-remove-download , .repeatable-add-download , .repeatable-add-faq , .repeatable-remove-image, .repeatable-add-image , .repeatable-remove , .repeatable-add-video , .repeatable-remove-video , .repeatable-remove-faq , .custom-repeatable-remove-download , .custom-repeatable-add-download , .custom-repeatable-add-faq , .custom-repeatable-remove-image, .custom-repeatable-add-image , .custom-repeatable-remove , .custom-repeatable-add-video , .custom-repeatable-remove-video , .custom-repeatable-remove-faq{ vertical-align:none; margin-left: 5px!important;-moz-border-radius: 50%!important;-webkit-border-radius: 50%!important;border-radius: 50%!important;width: 30px;height: 30px!important; }
+	.repeatable-remove-download i , .repeatable-remove-image i , .repeatable-remove i , .repeatable-remove-video i , .repeatable-remove-faq i { margin-top: 6px;margin-left: -2px;color: #C00;font-size: 15px; }
+.repeatable-add-download i , .repeatable-add-faq i , .repeatable-add-image i , .repeatable-add-video i, .custom-repeatable-add-download i , .custom-repeatable-add-faq i , .custom-repeatable-add-image i , .custom-repeatable-add-video i{ margin-top: 6px;margin-left: -2px;color: #068601;font-size: 15px; }
+.custom_upload_image_button,.video-embed-checkbox { width:auto!important; }
+.custom_upload_video_thumb_button,.custom_upload_download_button{ width:auto!important; }
+#product_faq_tab_posts_question { width:91% !important}
+span.sort{ float:left; font-size:18px;}
+.my-tabs a:before{content: "" !important;}
+
+.iconpicker {
+
+	background: #fff;
+
+	height: 250px;
+
+	overflow-y: scroll;
+
+	border: 1px solid #AAA;
+
+	cursor: pointer;
+
+}
+
+.iconpicker [class^="fa-"],.iconpicker [class*=" fa-"] {
+
+	background: #fff;
+
+	font-family: FontAwesome;
+
+	font-weight: normal;
+
+	font-style: normal;
+
+	text-decoration: inherit;
+
+	-webkit-font-smoothing: antialiased;
+
+	font-size: 14px;
+
+	line-height: 32px;
+
+	text-align: center;
+
+	cursor: pointer;
+
+	width: 32px;
+
+	height: 32px;
+
+	display: inline-block;
+
+	color: #494949;
+
+	border: 1px solid #e1e1e1;
+
+	margin-left: -1px;
+
+	margin-top: -1px;
+
+	transition: 		all 0.1s ease-out;
+
+	-moz-transition: 	all 0.1s ease-out; /* Firefox 4 */
+
+	-webkit-transition: all 0.1s ease-out; /* Safari and Chrome */
+
+	-o-transition: 		all 0.1s ease-out; /* Opera */
+
+}
+
+
+
+.iconpicker [class^="fa-"]:hover,.iconpicker [class*=" fa-"]:hover {
+
+	background-color: #eeeded;
+
+	-webkit-transform:scale(1.3);
+
+	-o-transform:scale(1.3);
+
+	-moz-transform:scale(1.3);
+
+	transform:scale(1.3);
+
+}
+
+
+
+.iconpicker [class^="fa-"].active,
+
+.iconpicker [class*=" fa-"].active {
+
+	background-color: #0074a2;
+	color:#fff;
+
+}
+
+
+
+
